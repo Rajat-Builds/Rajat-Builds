@@ -10,12 +10,12 @@ working toward a Backend Developer internship.
 
 ## 🛠️ Tech & Tools
 **Currently learning:** Java, Git, GitHub  
-**Familiar with:** (HTML, CSS, C, Python, etc.)
+**Familiar with:** (HTML, CSS, C, etc.)
 
 ## 📂 My Repositories
 | Repo | What it is |
 |------|------------|
-| [java-learning](https://github.com/Rajat-Builds/java-learning) | Java practice — daily code, notes, and mini projects |
+| [java-learning](https://github.com/Rajat-Builds/java-learning) | Java practice — daily code, notes, and projects |
 
 ## 📫 Connect with me
 - LinkedIn: www.linkedin.com/in/rajat-singh-29a52a328 
