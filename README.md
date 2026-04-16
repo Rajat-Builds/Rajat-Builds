@@ -10,7 +10,7 @@ working toward a Backend Developer internship.
 
 ## 🛠️ Tech & Tools
 **Currently learning:** Java, Git, GitHub  
-**Familiar with:** (HTML, CSS, C, etc.)
+**Familiar with:** (HTML, CSS, AI tools, etc.)
 
 ## 📂 My Repositories
 | Repo | What it is |
