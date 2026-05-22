@@ -6,7 +6,7 @@ working toward a Backend Developer internship.
 ## 🚀 What I'm currently doing
 - Learning Java from scratch — core concepts, OOP, DSA
 - Committing code every day to build consistency
-- Targeting a Java/Backend internship by June 2026.
+- Targeting a Java/Backend internship by September 2026.
 
 ## 🛠️ Tech & Tools
 **Currently learning:** Java, Git, GitHub  
