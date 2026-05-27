@@ -12,7 +12,8 @@ working toward a Backend Developer internship.
 - [x] Core Java — Variables, Data Types, Loops, Arrays, Methods, Recursion
 - [x] OOP — Classes, Objects, Inheritance, Polymorphism, Encapsulation
 - [x] Collections — ArrayList, HashMap, HashSet
-- [ ] Exception Handling
+- [x] Exception Handling — try, catch, finally, throw, throws, custom exceptions
+- [ ] First Mini Project 
 - and moree...
 
 ## 🛠️ Tech & Tools
