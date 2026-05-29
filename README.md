@@ -13,7 +13,8 @@ working toward a Backend Developer internship.
 - [x] OOP — Classes, Objects, Inheritance, Polymorphism, Encapsulation
 - [x] Collections — ArrayList, HashMap, HashSet
 - [x] Exception Handling — try, catch, finally, throw, throws, custom exceptions
-- [ ] First Mini Project 
+- [x] First Project
+- [ ] Generics and Lambda Expressions
 - and moree...
 
 ## 🛠️ Tech & Tools
