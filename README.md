@@ -14,7 +14,8 @@ working toward a Backend Developer internship.
 - [x] Collections — ArrayList, HashMap, HashSet
 - [x] Exception Handling — try, catch, finally, throw, throws, custom exceptions
 - [x] First Project
-- [ ] Generics and Lambda Expressions
+- [x] Generics and Lambda Expressions
+- [ ] Spring Boot 
 - and moree...
 
 ## 🛠️ Tech & Tools
