@@ -15,7 +15,7 @@ working toward a Backend Developer internship.
 - [x] Exception Handling — try, catch, finally, throw, throws, custom exceptions
 - [x] First Project
 - [x] Generics and Lambda Expressions
-- [ ] Spring Boot 
+- [ ] Spring Boot — REST APIs, CRUD, Service Layer, Dependency Injection ← currently here
 - and moree...
 
 ## 🛠️ Tech & Tools
