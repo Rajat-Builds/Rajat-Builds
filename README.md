@@ -27,6 +27,10 @@ working toward a Backend Developer internship.
 |------|------------|
 | [java-learning](https://github.com/Rajat-Builds/java-learning) | Java practice — daily code, notes, and mini projects |
 
+## 📝 Notes & Resources
+- [Java Cheatsheet](https://github.com/Rajat-Builds/java-learning/blob/main/Java%20Cheatsheet.pdf) — quick reference for Java syntax.
+- [Java Complete Notes](https://github.com/Rajat-Builds/java-learning/blob/main/Java_Complete_Notes.pdf) — full notes of Java. 
+
 ## 📫 Connect with me
 - LinkedIn: [rajat-singh-29a52a328](https://www.linkedin.com/in/rajat-singh-29a52a328)
 - Email: rajatsingh12154@gmail.com
