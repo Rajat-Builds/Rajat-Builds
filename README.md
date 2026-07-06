@@ -11,7 +11,7 @@ working toward a Backend Developer internship.
 - [x] Generics, Lambda Expressions, Streams API
 - [x] Spring Boot — REST APIs, full CRUD, Service Layer, MySQL, JPA, Validation, Error Handling
 - [x] Projects — Student Management System, Library Management REST API
-- [ ] DSA with Java ← currently here
+- [ ] DSA with Java — Arrays, Two Pointer ← currently here
 - [ ] Interview Preparation
 
 ## 🛠️ Tech & Tools
