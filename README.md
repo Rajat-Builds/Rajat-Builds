@@ -1,7 +1,11 @@
 # Hey, I'm Rajat 👋
 
 I'm a 3rd-year BCA student from Noida, currently learning Java and
-working toward a Backend Developer internship.
+working toward a Backend Developer internships and jobs. 
+
+## 🚀 What I'm currently doing
+- Solving DSA problems daily on LeetCode . 
+- Working on my main portfolio project i.e "India Data Center Water Risk Tracker".
 
 ## ✅ Java Progress
 - [x] Core Java — Variables, Data Types, Loops, Arrays, Methods, Recursion
@@ -11,9 +15,8 @@ working toward a Backend Developer internship.
 - [x] Generics, Lambda Expressions, Streams API
 - [x] Spring Boot — REST APIs, full CRUD, Service Layer, MySQL, JPA, Validation, Error Handling
 - [x] Projects — Student Management System, Library Management REST API
-- [ ] DSA with Java — Arrays, Strings, LinkedList ← currently here
-- [ ] Interview Preparation
-
+- [ ] DSA & Major Project ← currently here
+  
 ## 🛠️ Tech & Tools
 **Languages:** Java  
 **Frameworks:** Spring Boot  
@@ -23,11 +26,11 @@ working toward a Backend Developer internship.
 ## 📂 My Repositories
 | Repo | What it is |
 |------|------------|
-| [java-learning](https://github.com/Rajat-Builds/java-learning) | Java learning journey — core concepts, OOP, Spring Boot, and projects |
+| [java-learning](https://github.com/Rajat-Builds/java-learning) | Java learning journey — core concepts, OOP, Spring Boot, DSA and minor projects |
 
 ## 📝 Notes & Resources
 - [Java Cheatsheet](https://github.com/Rajat-Builds/java-learning/blob/main/Java%20Cheatsheet.pdf) — quick reference for Java syntax
-- [Java Complete Notes](https://github.com/Rajat-Builds/java-learning/blob/main/Java_Complete_Notes.pdf) — full notes from my learning journey
+- [Java Complete Notes](https://github.com/Rajat-Builds/java-learning/blob/main/Java_Complete_Notes.pdf) — full notes of Core Java
 
 ## 📫 Connect with me
 - LinkedIn: [rajat-singh-29a52a328](https://www.linkedin.com/in/rajat-singh-29a52a328)
