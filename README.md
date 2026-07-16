@@ -26,7 +26,8 @@ working toward a Backend Developer internships and jobs.
 ## 📂 My Repositories
 | Repo | What it is |
 |------|------------|
-| [java-learning](https://github.com/Rajat-Builds/java-learning) | Java learning journey — core concepts, OOP, Spring Boot, DSA and minor projects |
+| [india-water-risk-tracker](https://github.com/Rajat-Builds/india-water-risk-tracker) | Tracks groundwater stress and transparency risk for AI data centers across India |
+| [java-learning](https://github.com/Rajat-Builds/java-learning) | Java learning journey — core concepts, OOP, Spring Boot, and projects |
 
 ## 📝 Notes & Resources
 - [Java Cheatsheet](https://github.com/Rajat-Builds/java-learning/blob/main/Java%20Cheatsheet.pdf) — quick reference for Java syntax
