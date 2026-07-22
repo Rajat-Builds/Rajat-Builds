@@ -4,8 +4,9 @@ I'm a 3rd-year BCA student from Noida, currently learning Java and
 working toward a Backend Developer internships and jobs. 
 
 ## 🚀 What I'm currently doing
-- Solving DSA problems daily on LeetCode . 
-- Working on my main portfolio project i.e "India Data Center Water Risk Tracker".
+- Building India Data Center Water Risk Tracker — deploying soon
+- Solving DSA problems daily on LeetCode
+- Targeting a Java/Backend internship by September 2026
 
 ## ✅ Java Progress
 - [x] Core Java — Variables, Data Types, Loops, Arrays, Methods, Recursion
