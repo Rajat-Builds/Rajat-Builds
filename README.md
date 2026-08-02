@@ -31,6 +31,7 @@ and working toward a Backend Developer internship.
 |------|------------|
 | [india-water-risk-tracker](https://github.com/Rajat-Builds/india-water-risk-tracker) | Live full-stack project — tracks groundwater stress for AI data centers across India |
 | [java-learning](https://github.com/Rajat-Builds/java-learning) | Java learning journey — core concepts, OOP, Spring Boot, DSA, and projects |
+| [portfolio](https://rajatsingh-dev.vercel.app/) | Here is my portfolio website |
 
 ## 📝 Notes & Resources
 - [Java Cheatsheet](https://github.com/Rajat-Builds/java-learning/blob/main/Java%20Cheatsheet.pdf) — quick reference for Java syntax
