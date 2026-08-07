@@ -16,7 +16,7 @@ and working toward a Backend Developer internship.
 - [x] Generics, Lambda Expressions, Streams API
 - [x] Spring Boot — REST APIs, full CRUD, Service Layer, MySQL, JPA, Validation, Error Handling
 - [x] DSA Basics
-- [x] Deployed a live full-stack project with Railway + GitHub Pages
+- [x] Deployed a live full-stack project with Render + GitHub Pages
 - [ ] Started Interview Prepration
 
 ## 🛠️ Tech & Tools
