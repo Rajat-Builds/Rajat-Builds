@@ -15,9 +15,8 @@ and working toward a Backend Developer internship.
 - [x] Exception Handling — try, catch, finally, throw, throws, custom exceptions
 - [x] Generics, Lambda Expressions, Streams API
 - [x] Spring Boot — REST APIs, full CRUD, Service Layer, MySQL, JPA, Validation, Error Handling
-- [x] DSA Basics
 - [x] Deployed a live full-stack project with Render + GitHub Pages
-- [ ] Started Interview Prepration
+- [ ] Question Practice And DSA ← (Currently Here)
 
 ## 🛠️ Tech & Tools
 **Languages:** Java  
