@@ -1,7 +1,7 @@
 # Hey, I'm Rajat 👋
 
 I'm a 3rd-year BCA student from Greater Noida, building backend systems in Java
-and working toward a Backend Developer internship.
+and working toward a Backend opportunities.
 
 ## 🚀 What I'm currently doing
 - Built and deployed a live full-stack project — India Data Center Water Risk Tracker
